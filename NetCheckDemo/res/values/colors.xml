@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="searchbg">#CAC9CE</color>
+    <color name="main_button_text">#ff29549f</color>
+    <color name="zihese">#33CCCC</color>
+    <!-- <color name="zihese">#00FFFF</color> -->
+    <color name="green">#00CC33</color>
+    <color name="gold">#FFD700</color>
+    <!-- 金色 -->
+    <drawable name="bg">#FFFFCC</drawable>
+
+    <color name="noMonth">#c0c0c0</color>
+    <color name="Text">#603b07</color>
+    <color name="ToDayText">#ffc2a53d</color>
+    <color name="calendar_zhe_day">#faedda</color>
+    <color name="event_center">#ff6bd697</color>
+    <color name="calendar_background">#cb9e41</color>
+    <color name="title_text_6">#FF529bd0</color>
+    <color name="title_text_7">#FFbc4445</color>
+    <color name="text_6">#FFf3feff</color>
+    <color name="text_7">#FFfff1f2</color>
+    <color name="selection">#b1dce2ff</color>
+    <color name="lightgrey">#F4F4F4</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="head_text">#0e5986</color>
+    <color name="author_text">#0e5986</color>
+
+    <drawable name="dark_yellow">#FFE600</drawable>
+
+    <color name="realwhite">#FFFFFF</color>
+    <color name="loginbgcolor">#BBFFBB</color>
+    <!-- <color name="white">#FFFFFF</color> -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_blue">#000033</color>
+    <color name="yellow">#fffca8</color>
+    <color name="dark">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="灰色">#808080</color>
+    <color name="transparent">#00000000</color>
+    <color name="sqquerybtn">#4f5da8</color>
+
+    <drawable name="topmenu_back">#18335E</drawable>
+    <drawable name="red">#fff200</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>
+    <drawable name="yellow">#fffca8</drawable>
+    <drawable name="yellow2">#FFFF00</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="dark_blue">#000033</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="grey">#464646</drawable>
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#a0000000</drawable>
+
+    <color name="solid_blue">#0000ff</color>
+    <color name="solid_green">#f0f0</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="chengse">#FF6600</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="lightred">#CC0033</color>
+    <color name="nocolor">#00000000</color>
+    <color name="light_blue">#f58220</color>
+    <color name="grey">#464646</color>
+    <color name="blue">#6633FF</color>
+    <color name="blue_shense">#000099</color>
+    <color name="cell_empty">#00000000</color>
+    <color name="cell_filled">#00000000</color>
+    <color name="cell_empty_hover">#ff00ff00</color>
+    <color name="cell_filled_hover">#ffaadddd</color>
+    <color name="listitem_bg_color">#ffededee</color>
+    <color name="button_unselected">#ff54acea</color>
+    <color name="frame_button_text_nor">#000000</color>
+    <color name="frame_button_text_select">#FFFFFF</color>
+    <!-- 新点微门户字体颜色 -->
+    <color name="shhp_login_text">#f58220</color>
+    <color name="shhp_text_darkgrey">#454545</color>
+    <color name="shhp_news_title">#272727</color>
+    <color name="shhp_news_content">#5a5a5a</color>
+
+    <!-- 评价器 信息标题颜色 -->
+    <color name="title_color">#0c7b15</color>
+    <color name="sp_btn_text_press">#ff7800</color>
+    <color name="sp_btn_text_normal">#01604a</color>
+
+</resources>
